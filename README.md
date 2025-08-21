@@ -3,3 +3,5 @@ DAY -1  https://www.kaggle.com/datasets/atharvasoundankar/ai-developer-productiv
 
 DAY -2 
 https://colab.research.google.com/drive/1zWkrnWbDIir_paxL9ZXTb-Q0a2ewWMCS?usp=drive_link
+
+Day 3 – Handle Missing Data (https://colab.research.google.com/drive/1zWkrnWbDIir_paxL9ZXTb-Q0a2ewWMCS?usp=drive_link)
